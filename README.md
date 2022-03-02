@@ -37,8 +37,9 @@ Don't hesitate to reach-us out there: [![Website Badge](https://img.shields.io/b
 - French Alps avalanch Bulletin (BERA from <img src="https://meteofrance.com/sites/meteofrance.com/files/logo/logo_small_0.png" alt="MeteoFrance logo" width=30> [MeteoFrance](https://meteofrance.com/meteo-montagne))
 <br>
 You can find it there: [![Google play Badge](https://img.shields.io/badge/Google-Play-689f38?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.skails.opentopomapviewer&gl=FR)
-<br>
+
 ### Don't hesitate to reach me out 
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bbouffaut) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor)](https://www.linkedin.com/in/baptistebouffaut/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=firefox&logoColor=white)](https://skails.com)
 
 
