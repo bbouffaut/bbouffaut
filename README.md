@@ -34,7 +34,7 @@ Don't hesitate to reach-us out there: [![Website Badge](https://img.shields.io/b
 - Itinerary computation based on departure, arrival and way-points
 - Weather information overlays
 - Photos coming from <img src="https://www.camptocamp.org/img/logo.49e8f0dc.svg" alt="Camptocamp logo" width=50> [Camptocamp.org](https://camptocamp.org)
-- French Alps avalanch Bulletin (BERA from <img src="https://meteofrance.com/sites/meteofrance.com/files/logo/logo_small_0.png" alt="MeteoFrance logo" width=30> [MeteoFrance](https://meteofrance.com/meteo-montagne))
+- French Alps avalanche Bulletin (BERA from <img src="https://meteofrance.com/sites/meteofrance.com/files/logo/logo_small_0.png" alt="MeteoFrance logo" width=30> [MeteoFrance](https://meteofrance.com/meteo-montagne))
 
 
 You can find it there: [![Google play Badge](https://img.shields.io/badge/Google-Play-689f38?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.skails.opentopomapviewer&gl=FR)
