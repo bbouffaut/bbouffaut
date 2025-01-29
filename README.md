@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=bbouffaut)
 
 
-### I'm currently Senior Engineering Manager at CircleCI (ex-CTO of Ponicode)
+### I'm currently CTO of Intescia, previously CTO of Ponicode
+
+[Intescia](https://intescia.com/) is a European leader in Business Intelligence, providing, among other products, a Data as a Service (Daas) platform.
 
 Ponicode was a French startup that aims at becoming THE coding-partner to permit ALL developers developing better code faster. The first capability of our AI is to help developers writing good tests to **identify and fix bugs sooner in the dev process (shift-left)**.
 
